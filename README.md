@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Paweł
+- 👀 I’m interested in programming web applications
+- 🌱 I’m currently learning PHP and JavaScript
